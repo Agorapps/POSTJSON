@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="fondo">#ffeeeeee</color>
+    <!-- azul. -->
+    <color name="gris">#ffadadad</color>
+    <color name="gris_claro">#ffd6d6d6</color>
+    <color name="blanco">#ffffffff</color>
+
+    <color name="ColorPrimary">#FFFFFFFF</color>
+    <color name="accent_blue">#448AFF</color>
+
+    <!-- verde -->
+    <color name="light_green">#ffC8E6C9</color>
+    <color name="primary_dark_green">#FF388E3C</color>
+    <color name="primary_green">#ff4CAF50</color>
+
+    <!-- amarillo -->
+    <color name="light_amarillo">#ffFFF9C4</color>
+    <color name="primary_dark_amarillo">#FFFBC02D</color>
+    <color name="primary_amarillo">#ffFFEB3B</color>
+
+    <!-- rojo -->
+    <color name="light_red">#ffFFCDD2</color>
+    <color name="primary_dark_red">#FFD32F2F</color>
+    <color name="primary_red">#ffF44336</color>
+
+    <!-- marron -->
+    <color name="light_marron">#ffD7CCC8</color>
+    <color name="primary_dark_marron">#FF5D4037</color>
+    <color name="primary_marron">#ff795548</color>
+
+    <!-- naranja -->
+    <color name="light_naranja">#ffD7CCC8</color>
+    <color name="primary_dark_naranja">#FFF57C00</color>
+    <color name="primary_naranja">#ffFF9800</color>
+
+    <!-- azul -->
+    <color name="light_blue">#ffBBDEFB</color>
+    <color name="primary_dark_blue">#FF1976D2</color>
+    <color name="primary_blue">#ff2196F3</color>
+
+    <!-- indigo -->
+    <color name="indigoOscuro">#ff1A237E</color>
+    <color name="primary_dark_indigo">#303F9F</color>
+    <color name="primary_indigo">#3F51B5</color>
+
+    <!-- purple -->
+    <color name="light_purple">#ffD1C4E9</color>
+    <color name="primary_dark_purple">#ff512DA8</color>
+    <color name="primary_purple">#ff673AB7</color>
+
+    <color name="black">#000000</color>
+    <color name="darker_gray">#1f2226</color>
+    <color name="transpatent">#aa000000</color>
+
+</resources>
